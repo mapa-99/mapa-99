@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mapa-99" alt="mapa-99" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, MongoDB, PostgresSQL, Express, Node.js, API's consumption**
-
 - 📫 How to reach me **manuel1paredes99@gmail.com / mapa991@hotmail.com**
 
 - ⚡ Fun fact **I like puzzles like Rubik's Cube**
