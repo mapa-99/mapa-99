@@ -1,3 +1,6 @@
+# 💫 About Me:
+💻FrontEnd Developer <br>👨🏽‍💻Coding, generate solutions, optimize and refactor some product flows<br>🗒️I'm currently focusing on professional growth<br>📍Colombia
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manuel-alejandro-paredes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manuel1paredes99@gmail.com) 
